@@ -1,2 +1,0 @@
-# Medium
-Toward Data Science
